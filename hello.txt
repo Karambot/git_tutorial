@@ -1,2 +1,2 @@
 1 hi
-second line
+2 hi
